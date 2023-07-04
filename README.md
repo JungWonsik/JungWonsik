@@ -14,5 +14,5 @@
 
 
 ### BAEK-JOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
 
