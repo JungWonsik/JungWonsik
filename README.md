@@ -13,6 +13,6 @@
 ![Spyder IDE](https://img.shields.io/badge/Spyder%20IDE-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white)
 
 
-### BAEK-JOON
+<!--### BAEK-JOON
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
 
