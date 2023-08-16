@@ -15,7 +15,6 @@
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white) </br>
 
 ![React](img src="https://img.shields.io/badge/React-EE4C2C?style=for-the-badge&logo=React&logoColor=white")
-![javascript](img src="https://img.shields.io/badge/javascript?style=for-the-badge&logo=javascript&logoColor=white")
 <!--### BAEK-JOON
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
 
