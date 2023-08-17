@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungWonsik&count_bg=%23B8E2ED&title_bg=%23E3B5B5&icon=&icon_color=%230D0D0D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### I hope Data Analyst and Front-End Developer
 
 ### 💻 My Stack 
-### I hope Data Analyst and Front-End Developer
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  </br>
