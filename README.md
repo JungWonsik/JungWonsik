@@ -19,7 +19,7 @@
 
 ### My experience 
 - 2021.06 - 2021.12 (NIA) BigData internship
-- 2022.04 - 2022.11 (Hanium) CJ logistics ecommerce-demand-forecasting  
+- 2022.04 - 2022.11 (Hanium) CJ logistics e-Commerce-demand-forecasting  
 - 2023.01 - ing (Samsung SW Academy) 
 
 <!--### BAEK-JOON
