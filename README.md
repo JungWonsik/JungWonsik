@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/React-EE4C2C?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
 
-### My experience 
+### 💻 My experience 
 - 2021.06 - 2021.12 (NIA) BigData internship
 - 2022.04 - 2022.11 (Hanium) CJ logistics e-Commerce-demand-forecasting  
 - 2023.01 - ing (Samsung SW Academy) 
