@@ -6,7 +6,6 @@
 ### 💻 My Stack 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=#A589BA)
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  </br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
@@ -21,5 +20,6 @@
 
 <!--### BAEK-JOON
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=#A589BA)
 
  Languages & Tools
