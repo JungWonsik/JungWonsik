@@ -17,6 +17,11 @@
 
 <img src="https://img.shields.io/badge/React-EE4C2C?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
 
+### My experience 
+- 2021.06 - 2021.12 (NIA) BigData internship
+- 2022.04 - 2022.11 (Hanium) CJ logistics ecommerce-demand-forecasting  
+- 2023.01 - ing (Samsung SW Academy) learned Computer Science (programming and algorithm), Language (Java object-oriented understanding and utilization, data structure, etc.), Web/Frameword (React, Spring), and DataBase.
+
 
 <!--### BAEK-JOON
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
