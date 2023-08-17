@@ -20,8 +20,7 @@
 ### My experience 
 - 2021.06 - 2021.12 (NIA) BigData internship
 - 2022.04 - 2022.11 (Hanium) CJ logistics ecommerce-demand-forecasting  
-- 2023.01 - ing (Samsung SW Academy) learned Computer Science (programming and algorithm), Language (Java object-oriented understanding and utilization, data structure, etc.), Web/Frameword (React, Spring), and DataBase.
-
+- 2023.01 - ing (Samsung SW Academy) 
 
 <!--### BAEK-JOON
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abossni7)](https://solved.ac/abossni7/)
@@ -29,5 +28,7 @@
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>  <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+learned Computer Science (programming and algorithm), Language (Java object-oriented understanding and utilization, data structure, etc.), Web/Frameword (React, Spring), and DataBase.
 
  Languages & Tools
